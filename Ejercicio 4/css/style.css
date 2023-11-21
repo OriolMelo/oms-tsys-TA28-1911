@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color:rgb(255, 249, 241);
+}
+
+h1{
+    margin: 0;
+    padding-left: 5px;
+    padding-top: 3px;
+    font-size: 21px;
+    background-color:rgb(247, 209, 112);
+}
+
+h2{
+    font-size:28px;
+    color:rgb(84, 160, 196)
+}
+.info{
+    color:rgb(64, 97, 146)
+}
+.seccion{
+    color:rgb(64, 97, 146)
+}
+.lista {
+    margin-left:30px;
+}
